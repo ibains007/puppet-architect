@@ -1,0 +1,27 @@
+{
+  "name": "jamtur01-irc",
+  "version": "0.0.7",
+  "source": "UNKNOWN",
+  "author": "jamtur01",
+  "license": "Apache 2.0",
+  "summary": "Report processor that notifies an IRC channel about failed Puppet runs",
+  "description": "UNKNOWN",
+  "project_page": "https://github.com/jamtur01/puppet-irc",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">=3.0.0"
+    }
+  ],
+  "types": [
+
+  ],
+  "checksums": {
+    "LICENSE": "8f7bb094c7232b058c7e9f2e431f389c",
+    "Modulefile": "cbacdaf5fbdf1b5175fb96dd51712b28",
+    "README.md": "366bef7e77568e151b5690e728e59953",
+    "lib/puppet/reports/irc.rb": "8777e885f1ccab0f6d27446cb24d4542",
+    "manifests/init.pp": "044464127d7c1a1955d9811e23090e76",
+    "templates/irc.yaml.erb": "7622a30b9bb697a9950b05df046dd46f"
+  }
+}

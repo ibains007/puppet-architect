@@ -1,0 +1,6 @@
+forge "http://forge.puppetlabs.com"
+
+mod "puppetlabs/apache"
+mod "puppetlabs/mysql"
+mod "nanliu/staging"
+mod "razorsedge/vmwaretools", "4.6.0"

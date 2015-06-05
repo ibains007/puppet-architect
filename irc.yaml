@@ -1,0 +1,10 @@
+---
+:irc_server: 'irc://puppet@master.puppetlabs.vm:6667#puppetlabs'
+#:irc_password: 'password'
+:irc_join: true
+:irc_ssl: false
+:irc_register_first: true
+:timeout: 30
+:report_url: https://master.puppetlabs.vm/nodes/%h
+#:github_token: 'token'
+#:github_user: 'user'
